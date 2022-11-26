@@ -1,0 +1,136 @@
+{
+  "grupo": "ASTRO",
+  "debut": "23/02/2016",
+  "album debut": "Spring Up",
+  "cancion debut": "Hide & Seek",
+  "lema": "Wanna be your star!",
+  "fandom": "AROHA",
+  "agencia": "Fantagio",
+  "miembros": [
+    {
+      "nombre": "MJ",
+      "nombre real": "Kim Myung-jun",
+      "nacimiento": "05/03/1994",
+      "altura": "1.75cm",
+      "ocupacion": ["Cantante", "Actor", "Modelo"],
+      "instrumento": "Voz"
+    },
+    {
+      "nombre": "Jinjin",
+      "nombre real": "Park Jin-woo",
+      "nacimiento": "15/03/1996",
+      "altura": "1.74cm",
+      "ocupacion": [
+        "Cantante",
+        "Rapero",
+        "Actor",
+        "Bailarín",
+        "Cantautor",
+        "Productor Discográfico"
+      ],
+      "instrumento": ["Batería", "Voz"]
+    },
+    {
+      "nombre": "Cha Eun-woo",
+      "nombre real": "Lee Dong-min",
+      "nacimiento": "30/03/1997",
+      "altura": "1.83cm",
+      "ocupacion": ["Cantante", "Actor", "MC", "Modelo", "Bailarín"],
+      "instrumento": ["Voz", "Guitarra", "Piano", "Clarinete", "Violín"]
+    },
+    {
+      "nombre": "Moonbin",
+      "nombre real": "Moon Bin",
+      "nacimiento": "26/01/1998",
+      "altura": "1.82cm",
+      "ocupacion": ["Cantante", "Bailarín", "Actor"],
+      "instrumento": ["Voz", "Piano"]
+    },
+    {
+      "nombre": "Rocky",
+      "nombre real": "Park Min-hyuk",
+      "nacimiento": "25/02/1999",
+      "altura": "1.78cm",
+      "ocupacion": [
+        "Cantante",
+        "Bailarín",
+        "Rapero",
+        "MC",
+        "Compositor",
+        "Actor",
+        "Modelo"
+      ],
+      "instrumento": "Voz"
+    },
+    {
+      "nombre": "Yoon San-ha",
+      "nombre real": "Yoon San-ha",
+      "nacimiento": "21/03/2000",
+      "altura": "1.85cm",
+      "ocupacion": "Cantante",
+      "instrumento": ["Voz", "Guitarra Acústica"]
+    }
+  ],
+  "discografía": [
+    {
+      "Albumes de Estudio": [
+        {
+          "nombre": "All Light",
+          "año": "2019"
+        },
+        {
+          "nombre": "All Yours",
+          "año": "2021"
+        },
+        {
+          "nombre": "Drive to the Starry Road",
+          "año": "2022"
+        }
+      ]
+    },
+    {
+      "EPs": [
+        {
+          "nombre": "Spring Up",
+          "año": "2016"
+        },
+        {
+          "nombre": "Summer Vibes",
+          "año": "2016"
+        },
+        {
+          "nombre": "Autumn Story",
+          "año": "2016"
+        },
+        {
+          "nombre": "Winter Dream",
+          "año": "2017"
+        },
+        {
+          "nombre": "Dream Part.01",
+          "año": "2017"
+        },
+        {
+          "nombre": "Dream Part.02",
+          "año": "2017"
+        },
+        {
+          "nombre": "Rise Up",
+          "año": "2018"
+        },
+        {
+          "nombre": "Blue Flame",
+          "año": "2019"
+        },
+        {
+          "nombre": "Gateway",
+          "año": "2020"
+        },
+        {
+          "nombre": "Switch On",
+          "año": "2021"
+        }
+      ]
+    }
+  ]
+}
